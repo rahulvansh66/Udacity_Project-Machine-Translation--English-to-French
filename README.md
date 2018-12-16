@@ -7,6 +7,9 @@ Project consist of deep neural network that functions as part of an end-to-end m
 There are various neural network architectures are used to implement this project, which are mentioned below.
 
 Model 1: is a simple RNN
+
 Model 2: is a RNN with Embedding
+
 Model 3: is a Bidirectional RNN
+
 Model 4: is an optional Encoder-Decoder RNN
